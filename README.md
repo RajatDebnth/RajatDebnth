@@ -44,18 +44,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**NITA-Shopi**](https://github.com/RajatDebnth/NITA-Shopi) | E-commerce website | React (Vite), Tailwind CSS, JavaScript |
-| [**Git_View**](https://github.com/RajatDebnth/Git_View) | Search for a GitHub user, view their profile and calculate their worth | JavaScript |
-| [**Gesture_Controlled-_LED**](https://github.com/RajatDebnth/Gesture_Controlled-_LED) | Gesture-controlled LED system built with OpenCV | Python, OpenCV |
-| [**RFID-Security-System**](https://github.com/RajatDebnth/RFID-Security-System) | Security system using an RFID module | Arduino Uno |
-| [**Radar-System**](https://github.com/RajatDebnth/Radar-System) | Radar system built on Arduino | Arduino Uno |
-| [**Arduino-Traffic-light**](https://github.com/RajatDebnth/Arduino-Traffic-light) | Traffic light controller with an LCD display | Arduino, LCD |
-
-More of my work is on my portfolio: **[rajatdn.vercel.app/works](https://rajatdn.vercel.app/works)**
+## Visit repository for my works and also visit my portfolio: **[rajatdn.vercel.app/works](https://rajatdn.vercel.app/works)**
 
 ---
 
@@ -72,10 +61,10 @@ More of my work is on my portfolio: **[rajatdn.vercel.app/works](https://rajatdn
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=RajatDebnth&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajatDebnth&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajatDebnth&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
